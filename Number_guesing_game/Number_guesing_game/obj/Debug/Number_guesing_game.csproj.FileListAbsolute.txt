@@ -1,0 +1,7 @@
+C:\Users\User\OneDrive\Рабочий стол\number_guesing_cnsl_game\Number_guesing_game\Number_guesing_game\bin\Debug\Number_guesing_game.exe.config
+C:\Users\User\OneDrive\Рабочий стол\number_guesing_cnsl_game\Number_guesing_game\Number_guesing_game\bin\Debug\Number_guesing_game.exe
+C:\Users\User\OneDrive\Рабочий стол\number_guesing_cnsl_game\Number_guesing_game\Number_guesing_game\bin\Debug\Number_guesing_game.pdb
+C:\Users\User\OneDrive\Рабочий стол\number_guesing_cnsl_game\Number_guesing_game\Number_guesing_game\obj\Debug\Number_guesing_game.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\number_guesing_cnsl_game\Number_guesing_game\Number_guesing_game\obj\Debug\Number_guesing_game.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\number_guesing_cnsl_game\Number_guesing_game\Number_guesing_game\obj\Debug\Number_guesing_game.exe
+C:\Users\User\OneDrive\Рабочий стол\number_guesing_cnsl_game\Number_guesing_game\Number_guesing_game\obj\Debug\Number_guesing_game.pdb

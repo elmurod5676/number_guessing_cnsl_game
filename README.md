@@ -1,6 +1,4 @@
-# number_guessing_cnsl_game
+# number guessing console game
 C# Number guesing Conslole Game
-you can opeb repository by VS Code or Visual Studio 😁
 
-# CREATED BY ELMUROD ©
-< - Thanks for Reading!
+download from [here](https://github.com/elmurod5676/number_guessing_cnsl_game/releases/tag/guessing_game.exe)
